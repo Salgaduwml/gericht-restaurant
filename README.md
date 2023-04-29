@@ -1,4 +1,5 @@
-![Leisure World After](https://user-images.githubusercontent.com/88678198/235289245-a90ee796-4a8e-427c-82e7-a8502a398e2f.jpg)
+![Gericht 1](https://user-images.githubusercontent.com/88678198/235289424-27eaeb1b-dfd2-4760-8dd3-6ef452cb08f6.jpg)
+
 
 # Getting Started with Create React App
 
